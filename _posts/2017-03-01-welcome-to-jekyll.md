@@ -1,25 +1,6 @@
 ---
-title: "Welcome to Jekyll"
+title: "About Me"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I am Runjia Shen from Cornell University, majoring in Financial Engineering. My interest in finance grew from my undergraduate study experience. During my buy-side investment internship in an Asset Management department, I designed a Python-based monthly-position monitor of Chinese hedge fund performances. I delighted in optimizing my quantitative model by talking to fund representatives. I also felt gratified offering clients wise investment choices, such as pension funds, to support the general public benefit. 
