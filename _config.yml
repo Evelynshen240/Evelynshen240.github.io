@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html",title: "Home"}
-  - {file: "https://github.com/Evelynshen240/Evelynshen240.github.io/blob/master/Long_term_prediction.pdf",title: "Portfolio Project"}
+  - {file: "Long_term_prediction.pdf",title: "Portfolio Project"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:shenrj200222@gmail.com"}
